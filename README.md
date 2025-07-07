@@ -6,31 +6,34 @@
   <img src="Anime.jpg" alt="Hemavarna S" width="320" style="border-radius: 100%; box-shadow: 0px 0px 20px 3px #12f7ff; padding: 5px;" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hemavarnas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemavarnas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hemavarnas25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemavarnas25" height="30" width="40" /></a>
-<a href="https://medium.com/@hemavarnas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hemavarnas" height="30" width="40" /></a>
 
 
 ---
 
-@@ -37,54 +33,46 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hemavarna-s&label=Profile%20Views&color=00bfff&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hemavarna-s&theme=onestar&margin-w=10&margin-h=10&no-bg=true&row=2&column=4" alt="hemavarna-s trophies" />
+  </a>
+</p>
+
+---
+
+### 📝 Blogs & Publications
+
+- I regularly write on: [**Medium @hemavarnas**](https://medium.com/@hemavarnas)
+- 📌 Topics I cover: **SIEM**, **SOC Monitoring**, **Cloud Security**, **Threat Hunting**, **Bug Bounty**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### 🌐 Connect with Me
-
 <p align="left">
-  <a href="https://twitter.com/hemavarnas" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/hemavarnas25" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@hemavarnas" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
 <a href="https://twitter.com/hemavarnas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemavarnas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hemavarnas25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemavarnas25" height="30" width="40" /></a>
 <a href="https://medium.com/@hemavarnas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hemavarnas" height="30" width="40" /></a>
