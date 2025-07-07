@@ -38,18 +38,20 @@
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://twitter.com/hemavarnas" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/hemavarnas25" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@hemavarnas" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
+<p align="left">
+<a href="https://twitter.com/hemavarnas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemavarnas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hemavarnas25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemavarnas25" height="30" width="40" /></a>
+<a href="https://medium.com/@hemavarnas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hemavarnas" height="30" width="40" /></a>
 
+---
+
+## 🚀 Projects
+
+- 🔐 **[HexNex](https://github.com/yourusername/hexnex)** – A Cybersecurity Learning Platform for Threat Hunting, SOC Training, and Blue Teaming Practice.  
+ 
+
+- 🏺 **[Kraft64](https://github.com/yourusername/kraft64)** – A Tamil Traditional & Heritage Preservation Website showcasing native crafts, arts, and cultural roots.  
+  
 ---
 
 ## 🛠️ Languages & Tools
