@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/hZlRWqM.png" alt="Hemavarna S" width="220" style="border-radius: 50%; box-shadow: 0px 0px 20px 3px #12f7ff; padding: 5px;" />
+  <img src="Anime.jpg" alt="Hemavarna S" width="220" style="border-radius: 50%; box-shadow: 0px 0px 20px 3px #12f7ff; padding: 5px;" />
 </p>
 
 <p align="center">
