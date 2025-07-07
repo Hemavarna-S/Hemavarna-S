@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="Anime.jpeg" alt="Typing SVG" />
+  <img src="Anime.jpg" alt="Typing SVG" />
 </h1>
 
 <p align="center">
