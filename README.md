@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="Anime.jpg" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Hemavarna+S.;SOC+Analyst+%7C+Cloud+Security+Learner;Top+2%25+on+TryHackMe+%7C+Blogger+on+Medium;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/hZlRWqM.png" alt="Hemavarna S" width="220" height="280" style="border-radius: 12px; border: 2px solid #00ffff; box-shadow: 0 0 15px #12f7ff;" />
+  <img src="Anime.jpg" alt="Hemavarna S" width="220" height="280" style="border-radius: 12px; border: 2px solid #00ffff; box-shadow: 0 0 15px #12f7ff;" />
 </p>
 
 <p align="center">
