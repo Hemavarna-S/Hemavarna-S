@@ -6,11 +6,11 @@
   <img src="Anime.jpg" alt="Hemavarna S" width="320" style="border-radius: 100%; box-shadow: 0px 0px 20px 3px #12f7ff; padding: 5px;" />
 </p>
 
-<p align="center">
-  <img src="https://badgen.net/badge/Role/SOC%20Analyst/blue?icon=terminal" />
-  <img src="https://badgen.net/badge/TryHackMe/Top%202%25/purple?icon=codeforces" />
-  <img src="https://badgen.net/badge/Medium/Blogger/orange?icon=medium" />
-</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hemavarnas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemavarnas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hemavarnas25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemavarnas25" height="30" width="40" /></a>
+<a href="https://medium.com/@hemavarnas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hemavarnas" height="30" width="40" /></a>
 
 ---
 
