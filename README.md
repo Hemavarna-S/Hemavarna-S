@@ -47,10 +47,10 @@
 
 ## 🚀 Projects
 
-- 🔐 **[HexNex](https://github.com/yourusername/hexnex)** – A Cybersecurity Learning Platform for Threat Hunting, SOC Training, and Blue Teaming Practice.  
+- 🔐 **[HexNex](https://github.com/Hemavarna-S/hexnex)** – A Cybersecurity Learning Platform for Threat Hunting, SOC Training, and Blue Teaming Practice.  
  
 
-- 🏺 **[Kraft64](https://github.com/yourusername/kraft64)** – A Tamil Traditional & Heritage Preservation Website showcasing native crafts, arts, and cultural roots.  
+- 🏺 **[Kraft64](https://github.com/Hemavarna-S/kraft64)** – A Tamil Traditional & Heritage Preservation Website showcasing native crafts, arts, and cultural roots.  
   
 ---
 
