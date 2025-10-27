@@ -19,10 +19,27 @@
 
 <!-- Glassmorphic Animated Badges with Hover Effects -->
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/-SOC%20Analyst-1F222E?style=for-the-badge&logo=terminal&logoColor=12f7ff&labelColor=1a1a2e&logoWidth=20"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Top%202%25%20TryHackMe-1F222E?style=for-the-badge&logo=hackerrank&logoColor=9d4edd&labelColor=1a1a2e"/>
+  <!-- Glassmorphic Animated Badges with Real Icons -->
+<p align="center">
+  <!-- SOC Analyst with Shield -->
+  <img src="https://custom-icon-badges.demolab.com/badge/-SOC%20Analyst-1F222E?style=for-the-badge&logo=shield&logoColor=12f7ff&labelColor=1a1a2e&logoSource=feather"/>
+  
+  <!-- TryHackMe Official -->
+  <img src="https://custom-icon-badges.demolab.com/badge/-Top%202%25%20TryHackMe-1F222E?style=for-the-badge&logo=tryhackme&logoColor=9d4edd&labelColor=1a1a2e"/>
+  
+  <!-- Medium Official -->
   <img src="https://custom-icon-badges.demolab.com/badge/-Medium%20Blogger-1F222E?style=for-the-badge&logo=medium&logoColor=ff6b35&labelColor=1a1a2e"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/-Vice%20President%20CSE-1F222E?style=for-the-badge&logo=organization&logoColor=00d9ff&labelColor=1a1a2e"/>
+  
+  <!-- Vice President with Award -->
+  <img src="https://custom-icon-badges.demolab.com/badge/-Vice%20President%20CSE-1F222E?style=for-the-badge&logo=award&logoColor=00d9ff&labelColor=1a1a2e&logoSource=feather"/>
+  
+  <!-- GDG Lead with Google -->
+  <img src="https://custom-icon-badges.demolab.com/badge/-GDG%20Lead-1F222E?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=1a1a2e"/>
+  
+  <!-- WiCyS Member -->
+  <img src="https://custom-icon-badges.demolab.com/badge/-WiCyS%20Member-1F222E?style=for-the-badge&logo=users&logoColor=FF1B7A&labelColor=1a1a2e&logoSource=feather"/>
+</p>
+
 </p>
 
 <!-- Animated Visitor Counter with Multiple Countries -->
