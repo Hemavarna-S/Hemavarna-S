@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=12F7FF&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Hemavarna+Sundararajkumar;MS-SC+900+certified+SOC+Analyst+%7C+Cloud+Security+Learner;Top+2%25+on+TryHackMe+%7C+Blogger+on+Medium" alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=12F7FF&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Hemavarna+Sundararajkumar;
-    MS-SC+900+certified+|++SOC+Analyst+%7C+Cloud+Security+Learner;Top+2%25+on+TryHackMe+%7C+Blogger+on+Medium" alt="Typing SVG" />
+    MS-SC+900+certified+|++SOC+Analyst+%7C+Cloud+Security+Learner;Top+2%25+on+TryHackMe+%7C+Blogger+on+Medium" alt="" />
 </h1>
 
 <p align="center">
