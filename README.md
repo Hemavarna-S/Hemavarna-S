@@ -36,7 +36,7 @@
 
 **Hemavarna Sundararajkumar** — SOC Analyst | Cloud Security Specialist | Technical Writer
 
-- Years of experience: 3+
+- Years of experience: Student
 - Focus: SOC operations, cloud SIEM, threat detection, Zero Trust
 - Open to: Security Analyst roles, cloud security projects, open source contributions
 
