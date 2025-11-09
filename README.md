@@ -1,4 +1,3 @@
-# Hemavarna Sundararajkumar — Cybersecurity & Cloud Security Portfolio
 
 <!-- Ultra Dynamic Capsule Header with Wave Animation -->
 <div align="center">
