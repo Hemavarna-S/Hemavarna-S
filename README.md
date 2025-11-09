@@ -12,7 +12,8 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=12F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Top+2%25+on+TryHackMe+(AIR+1400);200%2B+Monthly+Readers+on+Medium;GDG+Cybersecurity+Lead;Building+the+Future+of+Cybersecurity+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=12F7FF&center=true&vCenter=true&width=850&height=120&lines=Top+2%25+on+TryHackMe+(AIR+1400);200%2B+Monthly+Readers+on+Medium;GDG+Cybersecurity+Lead;Building+the+Future+of+Cybersecurity+⚡" alt="Typing SVG" />
+</div>
 </div>
 
 <br>
@@ -27,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hemavarna-s&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=hemavarna-s&label=Profile%20Views&color=12f7ff&style=for-the-badge" alt="Visitor Count"/>
 </p>
 
 ---
