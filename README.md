@@ -4,6 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hi%20👋%20I'm%20Hemavarna%20Sundararajkumar&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=MS-SC%20900%20certified%20SOC%20Analyst%20|%20Cloud%20Security%20Specialist&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
+
+
 <div align="center">
   <img src="https://github.com/Hemavarna-S/Hemavarna-S/blob/main/Assets/anime-cyber.gif" width="300" height="300" style="border-radius: 50%; border: 5px solid #12f7ff; box-shadow: 0 0 20px #12f7ff, 0 0 40px #12f7ff, 0 0 60px #12f7ff, 0 0 80px #12f7ff, 0 0 100px #12f7ff; animation: pulse 2s infinite;" alt="Hemavarna S" />
 </div>
