@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="left">👨‍💻 About Me</h2>
+<!-- <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
   🎓 MS-SC 900 Certified <br/>
@@ -27,7 +27,7 @@
   ✍️ Tech Blogger | CSE ’27
 </p>
 
----
+--- -->
 
 <h2 align="left">Honing My Skills In</h2>
 
