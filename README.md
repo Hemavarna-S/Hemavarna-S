@@ -1,96 +1,112 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="220" src="https://media1.tenor.com/m/kSYQPDUKFQwAAAAC/anime.gif" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hemavarna-S.Hemavarna-S&"  />
-</div>
+<h1 align="left">
+  Hey 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+  What's up?
+</h1>
 
-###
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=F75C7E&width=650&lines=I'm+Hemavarna;Cybersecurity+Enthusiast;Cloud+Security+%7C+AWS+%26+Azure;TryHackMe+Top+2%25;Tech+Blogger+%7C+CSE+%2727" />
+</p>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+---
 
-###
+<h2 align="left">👨‍💻 About Me</h2>
 
-<p align="left">I'm Hemavarna, A Student passionate about Tech</p>
+<p align="left">
+  🎓 MS-SC 900 Certified <br/>
+  🛡️ GDG On Campus – Cybersecurity Organizer @ SECE <br/>
+  🔥 TryHackMe Top 2% <br/>
+  ☁️ Cloud Security (AWS & Azure) <br/>
+  🏫 Vice President – CSE @ SECE <br/>
+  ✍️ Tech Blogger | CSE ’27
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">MS-SC 900 Certified | GDG On Campus - Cybersecurity Organizer @ SECE | THM Top 2% | Cloud Security (AWS & Azure) | Vice President - CSE @ SECE | Tech Blogger | CSE ’27</p>
-
-###
-
-<h2 align="left">Honing my skills in</h2>
-
-###
+<h2 align="left">Honing My Skills In</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" />
 </div>
 
-###
+---
+
+<h2 align="center">Latest Medium Articles</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemavarna-S&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hemavarna-S&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@hemavarnas/0" target="_blank">
+    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@hemavarnas/0" />
+  </a>
+  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@hemavarnas/1" target="_blank">
+    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@hemavarnas/1" />
+  </a>
+  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@hemavarnas/2" target="_blank">
+    <img width="100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@hemavarnas/2" />
+  </a>
 </div>
 
-###
+---
+
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hemavarna-S.Hemavarna-S" />
+</div>
+
+<div align="center">
+ <img height="150"
+     src="https://github-readme-stats.vercel.app/api?username=Hemavarna-S&show_icons=true&theme=dracula&hide=contribs" />
+  <img height="150"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=Hemavarna-S&layout=compact&langs_count=5&theme=dracula" />
+</div>
+
+---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemavarna-S/Hemavarna-S/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hemavarna-S/Hemavarna-S/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hemavarna-S/Hemavarna-S/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Hemavarna-S/Hemavarna-S/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Hemavarna-S/Hemavarna-S/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph"
+       src="https://raw.githubusercontent.com/Hemavarna-S/Hemavarna-S/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+<h2 align="left">Connect With Me</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/hemavarna-s25/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="52" height="40" />
   </a>
 </div>
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <img width="100%"
+       src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" />
 </div>
-
-###
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hemavarnas/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@hemavarnas/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hemavarnas/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@hemavarnas/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hemavarnas/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@hemavarnas/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
