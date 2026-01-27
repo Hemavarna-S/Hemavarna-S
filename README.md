@@ -7,11 +7,12 @@
 <h1 align="left">
   Hey 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-  What's up?
+  I'm Hemavarna!
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=F75C7E&width=650&lines=I'm+Hemavarna;Cybersecurity+Enthusiast;Cloud+Security+%7C+AWS+%26+Azure;TryHackMe+Top+2%25;Tech+Blogger+%7C+CSE+%2727" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=F75C7E&width=650&lines=Cybersecurity+Enthusiast;Cloud+Security+%7C+AWS+%26+Azure;TryHackMe+Top+2%25;Tech+Blogger+%7C+CSE+%2727" />
+
 </p>
 
 ---
